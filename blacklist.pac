@@ -18,7 +18,8 @@ globalThis.rules = {
 	"youtube.com": 0,
 	"googlevideo.com": 0,
 	"rutracker.org": 0,
-	"nnmclub.to": 0
+	"nnmclub.to": 0,
+	"kinozal.tv": 0
 };
 
 function FindProxyForURL(url, host) {
