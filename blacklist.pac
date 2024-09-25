@@ -19,7 +19,10 @@ globalThis.rules = {
 	"googlevideo.com": 0,
 	"rutracker.org": 0,
 	"nnmclub.to": 0,
-	"kinozal.tv": 0
+	"kinozal.tv": 0,
+	"pornolab.net": 0,
+	"x.com": 0,
+	"instagramm.com": 0
 };
 
 function FindProxyForURL(url, host) {
