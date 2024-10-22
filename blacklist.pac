@@ -15,14 +15,27 @@ globalThis.proxies = [
 ];
 
 globalThis.rules = {
-	"youtube.com": 0,
-	"googlevideo.com": 0,
 	"rutracker.org": 0,
 	"nnmclub.to": 0,
 	"kinozal.tv": 0,
 	"pornolab.net": 0,
 	"x.com": 0,
-	"instagramm.com": 0
+	"instagramm.com": 0,
+
+	"youtube.com": 0,
+	"googlevideo.com": 0,
+	"youtu.be": 0,
+	"yt.be": 0,
+	"ytimg.com": 0,
+	"ggpht.com": 0,
+	"gvt1.com": 0,
+	"youtube-nocookie.com": 0,
+	"youtube-ui.l.google.com": 0,
+	"youtubeembeddedplayer.googleapis.com": 0,
+	"youtube.googleapis.com": 0,
+	"youtubei.googleapis.com": 0,
+	"yt-video-upload.l.google.com": 0,
+	"wide-youtube.l.google.com": 0
 };
 
 function FindProxyForURL(url, host) {
