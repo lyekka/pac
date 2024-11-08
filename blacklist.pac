@@ -11,16 +11,17 @@
 globalThis.fallback = "DIRECT";
 
 globalThis.proxies = [
-	"SOCKS5 localhost:1080"
+	"SOCKS5 localhost:1080",
+	"SOCKS5 localhost:1081",
 ];
 
 globalThis.rules = {
-	"rutracker.org": 0,
-	"nnmclub.to": 0,
-	"kinozal.tv": 0,
-	"pornolab.net": 0,
-	"x.com": 0,
-	"instagramm.com": 0,
+	"rutracker.org": 1,
+	"nnmclub.to": 1,
+	"kinozal.tv": 1,
+	"pornolab.net": 1,
+	"x.com": 1,
+	"instagramm.com": 1,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
