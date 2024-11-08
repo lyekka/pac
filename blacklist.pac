@@ -17,6 +17,7 @@ globalThis.proxies = [
 
 globalThis.rules = {
 	"rutracker.org": 1,
+	"rutracker.cc": 1,
 	"nnmclub.to": 1,
 	"kinozal.tv": 1,
 	"pornolab.net": 1,
