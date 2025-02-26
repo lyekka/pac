@@ -23,7 +23,6 @@ globalThis.rules = {
 	"pornolab.net": 1,
 	"x.com": 1,
 	"abs.twimg.com": 1,
-	"instagramm.com": 1,
 	"use.selezen.club": 1,
 	"tr.anidub.com": 1,
 	"anidub.com": 1,
@@ -42,7 +41,14 @@ globalThis.rules = {
 	"youtube.googleapis.com": 0,
 	"youtubei.googleapis.com": 0,
 	"yt-video-upload.l.google.com": 0,
-	"wide-youtube.l.google.com": 0
+	"wide-youtube.l.google.com": 0,
+
+	"instagramm.com": 0,
+	"graph.instagram.com": 0,
+	"i.instagram.com": 0,
+	"static.cdninstagram.com": 0,
+	"scontent.cdninstagram.com": 0,
+	"scontent-arn2-1.cdninstagram.com": 0
 };
 
 function FindProxyForURL(url, host) {
