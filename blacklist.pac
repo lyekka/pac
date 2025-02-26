@@ -27,6 +27,7 @@ globalThis.rules = {
 	"use.selezen.club": 1,
 	"tr.anidub.com": 1,
 	"anidub.com": 1,
+	"kino.pub": 1,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
