@@ -25,6 +25,8 @@ globalThis.rules = {
 	"abs.twimg.com": 1,
 	"instagramm.com": 1,
 	"use.selezen.club": 1,
+	"tr.anidub.com": 1,
+	"anidub.com": 1,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
