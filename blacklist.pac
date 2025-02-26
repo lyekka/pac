@@ -22,6 +22,7 @@ globalThis.rules = {
 	"kinozal.tv": 1,
 	"pornolab.net": 1,
 	"x.com": 1,
+	"abs.twimg.com": 1,
 	"instagramm.com": 1,
 	"use.selezen.club": 1,
 
