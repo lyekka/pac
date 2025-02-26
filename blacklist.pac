@@ -12,7 +12,7 @@ globalThis.fallback = "DIRECT";
 
 globalThis.proxies = [
 	"SOCKS5 localhost:1080",
-	"SOCKS5 localhost:1081",
+	"SOCKS5 localhost:1080",
 ];
 
 globalThis.rules = {
@@ -23,6 +23,7 @@ globalThis.rules = {
 	"pornolab.net": 1,
 	"x.com": 1,
 	"instagramm.com": 1,
+	"use.selezen.club": 1,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
