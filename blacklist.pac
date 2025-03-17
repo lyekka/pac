@@ -20,8 +20,6 @@ globalThis.rules = {
 	"nnmclub.to": 0,
 	"kinozal.tv": 0,
 	"pornolab.net": 0,
-	"x.com": 0,
-	"abs.twimg.com": 0,
 	"use.selezen.club": 0,
 	"tr.anidub.com": 0,
 	"anidub.com": 0,
@@ -48,7 +46,13 @@ globalThis.rules = {
 	"i.instagram.com": 0,
 	"static.cdninstagram.com": 0,
 	"scontent.cdninstagram.com": 0,
-	"scontent-arn2-1.cdninstagram.com": 0
+	"scontent-arn2-1.cdninstagram.com": 0,
+
+	"x.com": 0,
+	"abs.twimg.com": 0,
+	"twitter.com": 0,
+	"api.x.com": 0,
+	"abs-0.twimg.com": 0
 };
 
 function FindProxyForURL(url, host) {
