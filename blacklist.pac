@@ -41,7 +41,7 @@ globalThis.rules = {
 	"yt-video-upload.l.google.com": 0,
 	"wide-youtube.l.google.com": 0,
 
-	"instagramm.com": 0,
+	"instagram.com": 0,
 	"graph.instagram.com": 0,
 	"i.instagram.com": 0,
 	"static.cdninstagram.com": 0,
