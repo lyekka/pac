@@ -42,6 +42,7 @@ globalThis.rules = {
 	"youtubei.googleapis.com": 0,
 	"yt-video-upload.l.google.com": 0,
 	"wide-youtube.l.google.com": 0,
+	"themoviedb.org": 0,
 
 	"instagramm.com": 0,
 	"graph.instagram.com": 0,
