@@ -50,6 +50,9 @@ globalThis.rules = {
 
 	"x.com": 0,
 	"abs.twimg.com": 0,
+	"pbs.twimg.com": 0,
+	"video.twimg.com": 0,
+	"twimg.com": 0,
 	"twitter.com": 0,
 	"api.x.com": 0,
 	"abs-0.twimg.com": 0
