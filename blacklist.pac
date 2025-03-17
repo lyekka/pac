@@ -12,21 +12,21 @@ globalThis.fallback = "DIRECT";
 
 globalThis.proxies = [
 	"SOCKS5 localhost:1080",
-	"SOCKS5 localhost:1080",
 ];
 
 globalThis.rules = {
-	"rutracker.org": 1,
-	"rutracker.cc": 1,
-	"nnmclub.to": 1,
-	"kinozal.tv": 1,
-	"pornolab.net": 1,
-	"x.com": 1,
-	"abs.twimg.com": 1,
-	"use.selezen.club": 1,
-	"tr.anidub.com": 1,
-	"anidub.com": 1,
-	"kino.pub": 1,
+	"rutracker.org": 0,
+	"rutracker.cc": 0,
+	"nnmclub.to": 0,
+	"kinozal.tv": 0,
+	"pornolab.net": 0,
+	"x.com": 0,
+	"abs.twimg.com": 0,
+	"use.selezen.club": 0,
+	"tr.anidub.com": 0,
+	"anidub.com": 0,
+	"kino.pub": 0,
+	"themoviedb.org": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
@@ -42,7 +42,6 @@ globalThis.rules = {
 	"youtubei.googleapis.com": 0,
 	"yt-video-upload.l.google.com": 0,
 	"wide-youtube.l.google.com": 0,
-	"themoviedb.org": 0,
 
 	"instagramm.com": 0,
 	"graph.instagram.com": 0,
