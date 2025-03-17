@@ -25,6 +25,7 @@ globalThis.rules = {
 	"anidub.com": 0,
 	"kino.pub": 0,
 	"themoviedb.org": 0,
+	"pixiv.net": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
