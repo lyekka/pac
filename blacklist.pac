@@ -26,6 +26,7 @@ globalThis.rules = {
 	"kino.pub": 0,
 	"themoviedb.org": 0,
 	"pixiv.net": 0,
+	"kali.org": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
