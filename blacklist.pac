@@ -29,6 +29,7 @@ globalThis.rules = {
 	"kali.org": 0,
 	"oracle.com": 0,
 	"openstreetmap.org": 0,
+	"gamerant.com": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
