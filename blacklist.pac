@@ -31,6 +31,7 @@ globalThis.rules = {
 	"openstreetmap.org": 0,
 	"gamerant.com": 0,
 	"streamable.com": 0,
+	"grok.com": 0, 
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
