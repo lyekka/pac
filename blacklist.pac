@@ -32,6 +32,8 @@ globalThis.rules = {
 	"gamerant.com": 0,
 	"streamable.com": 0,
 	"grok.com": 0, 
+	"accounts.x.ai": 0,
+	"x.ai": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
