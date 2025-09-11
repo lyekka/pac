@@ -34,6 +34,8 @@ globalThis.rules = {
 	"grok.com": 0, 
 	"accounts.x.ai": 0,
 	"x.ai": 0,
+	"console.x.ai": 0,
+	"massgrave.dev": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
