@@ -37,6 +37,7 @@ globalThis.rules = {
 	"console.x.ai": 0,
 	"massgrave.dev": 0,
 	"databricks.com": 0,
+	"itstillworks.com": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
