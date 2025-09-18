@@ -38,6 +38,7 @@ globalThis.rules = {
 	"massgrave.dev": 0,
 	"databricks.com": 0,
 	"itstillworks.com": 0,
+	"ders.by": 0,
 
 	"youtube.com": 0,
 	"googlevideo.com": 0,
